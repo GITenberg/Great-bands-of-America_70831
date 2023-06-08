@@ -1,0 +1,41 @@
+_repo: Great-bands-of-America_70831
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Werth, Kurt
+    birthdate: 1896
+    deathdate: 1983
+    gutenberg_agent_id: '55923'
+    url: http://www.gutenberg.org/2009/agents/55923
+    wikipedia: https://en.wikipedia.org/wiki/Kurt_Werth
+creator:
+  author:
+    agent_name: Graham, Alberta Powell
+    birthdate: 1875
+    deathdate: 1955
+    gutenberg_agent_id: '55942'
+    url: http://www.gutenberg.org/2009/agents/55942
+description: ''
+gutenberg_issued: '2023-05-22'
+identifiers:
+  gutenberg: '70831'
+  lccn: '51013995'
+language: en
+pgterms:marc904: https://hdl.handle.net/2027/uc1.b4440405
+pgterms:marc905: 20220120070639graham
+pgterms:marc906: '1951'
+pgterms:marc907: US
+production_note: Tim Lindell, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aUnited States :$bThomas Nelson & Sons, $c1951.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bands (Music) -- United States'
+- !lcsh 'Band directors -- United States'
+- !lcc 'ML'
+- GITenberg
+title: Great bands of America
+url: http://www.gutenberg.org/ebooks/70831
